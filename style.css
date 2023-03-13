@@ -1,0 +1,40 @@
+/* CSS Stylesheet styles.css */
+body{
+	background-color: gray;
+}
+.serif {
+  font-family: Times, "Times New Roman", Georgia, serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1em;  /* 16px */
+}
+.sansserif {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 200;
+  font-size: 10px;
+  letter-spacing: 5px;
+  word-spacing: 20px;
+  line-height: 30px;
+}
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+  font-style: oblique;
+  font-weight: 900;
+  font-size: 200%; /* 32px */
+}
+.cursive{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 2em;
+}
+.lament{
+	font-family: "Bebas Kai";
+}
+.lament h2 {
+	font-size: 4em;
+}
+.lament p {
+	font-size: 3em;
+	letter-spacing: 5px;
+	word-spacing: 20px;
+}
